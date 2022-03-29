@@ -7,7 +7,7 @@ const data = [
       id: "1",
       name: "Utilização do Bootstrap ",
       link: "https://github.com/kadiado/checkpoint-03-fron-end.git",
-      link2: "https://github.com/kadiado/checkpoint-03-fron-end.git",
+      link2: "https://kadiado.github.io/checkpoint-03-fron-end/",
       image:
         "https://diariodoturismo.com.br/wp-content/uploads/2015/03/1392f-1316807172_255726807_1-Ecotur-Belem-Agencia-de-Viagens-e-Turismo-Icoaraci.jpg",
     },
@@ -15,7 +15,7 @@ const data = [
       id: "2",
       name: "Consumo API - To Do List",
       link: "https://github.com/luanableal/todo-List.git",
-      link2: "https://github.com/luanableal/todo-List.git",
+      link2: "https://luanableal.github.io/todo-List/",
       image:
         "https://www.theladders.com/wp-content/uploads/to-do-list-190702.jpg",
     },
@@ -23,7 +23,7 @@ const data = [
       id: "3",
       name: "Criando Form com HTML",
       link: "https://github.com/luanableal/checkpoint2.git",
-      link2: "https://github.com/luanableal/checkpoint2.git",
+      link2: "https://luanableal.github.io/checkpoint2/",
       image:
         "https://files.cercomp.ufg.br/weby/up/27/o/icon_form.png?1486478348",
     },
