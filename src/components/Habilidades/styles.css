@@ -1,0 +1,20 @@
+
+
+
+.habilidades{
+    background-color: rgb(191, 214, 241);
+    height: calc(100vh - 10px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+    padding-top: 10px;
+    
+
+}
+
+.tec{
+    height: 450px ;
+    padding-top: 50px;
+}

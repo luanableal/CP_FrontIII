@@ -1,0 +1,29 @@
+#about{
+    background-image: url(../../assets/banner3.jpg);
+    background-size: cover;
+    color: white;
+    height: calc(100vh - 80px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 80px;
+    flex-direction: column;
+}
+
+.luana{
+    border-radius: 50%;
+    height: 450px;
+    padding: 100px;
+}
+
+.sobreMim{
+    width: 500px;
+}
+
+.container_sobreMim{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+    
+}

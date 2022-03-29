@@ -1,0 +1,25 @@
+#social{
+    background-color: rgb(107, 105, 109);
+}
+
+.redes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    
+
+    
+}
+
+.contato{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  
+}
+
+.icons{
+    padding: 0px 15px;
+}
